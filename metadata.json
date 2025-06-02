@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Quant Trading Bot",
+  "description": "A sophisticated cryptocurrency trading bot interface utilizing quantitative strategies, statistical modeling, and Gemini API for insights and signal generation. This application simulates trading operations and backtesting analysis.",
+  "requestFramePermissions": []
+}
